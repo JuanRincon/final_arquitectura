@@ -1,0 +1,23 @@
+{
+  "name": "aplicacionsantiago",
+  "version": "1.0.0",
+  "description": "Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase": "^11.0.1",
+    "mongoose": "^8.8.2"
+  }
+}

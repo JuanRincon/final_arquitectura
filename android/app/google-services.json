@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276813313432",
+    "project_id": "aplicacionesmov-fba2f",
+    "storage_bucket": "aplicacionesmov-fba2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276813313432:android:5a69f7b2141a5b742c67ed",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDd0zaq4UUqjrNKA1ZE1Z_gxN2BBymfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276813313432:android:659a41f9dc6109202c67ed",
+        "android_client_info": {
+          "package_name": "com.thiag.cards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDd0zaq4UUqjrNKA1ZE1Z_gxN2BBymfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
